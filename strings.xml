@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jarvis</string>
+    <string name="a11y_desc">Lets Jarvis tap, scroll and press buttons for you when you give a voice command.</string>
+</resources>
